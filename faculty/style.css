@@ -1,0 +1,36 @@
+element.style {
+    background: blue;
+}
+a {
+    color: #590977;
+    text-decoration: none;
+}
+.nav-sidebar > .active > a, .nav-sidebar > .active > a:hover, .nav-sidebar > .active > a:focus {
+    color: #fff;
+    background-color: #590977;
+    text-transform: uppercase;
+}
+.btn-success1 {
+	background: #590977;
+     color: #fff; 
+     border-color: blue;
+     margin-left: 35%;
+
+}
+.btn-success2 {
+	background: #590977;
+     color: #fff; 
+     border-color: blue;
+
+}
+.btn-success1:hover{
+	background: blue;
+     color: #fff; 
+}
+.btn-success2:hover{
+	background: blue;
+     color: #fff; 
+}
+#logout:hover{
+    background: blue;
+}

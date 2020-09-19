@@ -1,0 +1,47 @@
+.buttons a {
+    color: #590977;
+}
+.nav-sidebar > .active > a, .nav-sidebar > .active > a:hover, .nav-sidebar > .active > a:focus {
+    color: #fff;
+    background-color: #590977;
+    text-transform: uppercase;
+}
+
+.btn-success1 {
+	background: #590977;
+     color: #fff; 
+     border-color: blue;
+     margin-left: 12%;
+
+}
+.btn-success2 {
+	background: #590977;
+     color: #fff; 
+     border-color: blue;
+
+}
+.btn-success3{
+     background: #590977;
+    color: #fff; 
+    border-color: blue;
+    padding: 12px 24px;
+    border-radius: 10px;
+}
+.btn-success1:hover{
+	background: blue;
+     color: #fff; 
+}
+.btn-success2:hover{
+	background: blue;
+     color: #fff;
+}
+.btn-success3:hover{
+        background: blue;
+     color: #fff; 
+}
+button {
+    color: red;
+}
+#logout:hover{
+    background: blue;
+}
