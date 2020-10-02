@@ -6,6 +6,10 @@ This online feedback system is a web-based system that provides a way for colleg
 
 How To use it.
 
-Database Configuration.....
-
+Database Configuration
 Open phpmyadmin Create Database "feedback_system" Import database feedback_system.sql
+
+For Admin Panel
+Open Your browser put inside browser “http://localhost/Online_feedback/admin”
+Login Details for admin :
+admin@gmail.com/admin
